@@ -1,0 +1,10 @@
+.header {
+	grid-template:
+		'logo toggle' auto
+		'nav nav' auto
+		'ctas ctas' auto / 1fr auto;
+
+	@screen md {
+		grid-template: 'logo nav ctas' auto / auto 1fr auto;
+	}
+}
