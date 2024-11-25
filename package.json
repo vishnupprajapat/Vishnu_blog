@@ -1,8 +1,8 @@
 {
-	"name": "sanitypress",
+	"name": "vishnu-blog",
 	"version": "5.1.10",
 	"description": "A Next.js + Sanity.io Starter Template",
-	"author": "nuotsu <mitchell@nuotsu.dev> (https://nuotsu.dev)",
+	"author": "vishnu <dev.vishnuprajapat@gmail.com>",
 	"license": "ISC",
 	"scripts": {
 		"dev": "next dev",

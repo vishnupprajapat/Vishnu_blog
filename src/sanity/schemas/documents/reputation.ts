@@ -21,7 +21,7 @@ const reputation = defineType({
 			title: 'GitHub Repo',
 			type: 'string',
 			description: 'Retrieves stargazer count and avatar images from GitHub',
-			placeholder: 'e.g. nuotsu/sanitypress',
+			placeholder: 'e.g. vishnupprajapat/Vishnu_blog',
 		}),
 		defineField({
 			name: 'limit',

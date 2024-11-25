@@ -75,12 +75,12 @@ const social: Array<{
 }> = [
 	{
 		icon: VscGithubInverted,
-		url: 'https://github.com/nuotsu/sanitypress',
+		url: 'https://github.com/vishnupprajapat/Vishnu_blog',
 		label: 'GitHub',
 	},
 	{
 		icon: RiTwitterXLine,
-		url: 'https://x.com/sanitypress',
+		url: 'https://x.com/vishnupprajapat',
 		label: 'X',
 	},
 ]
@@ -96,7 +96,7 @@ const linkGroups: Array<{
 			{ label: 'The SanityPress Blog', url: 'https://sanitypress.dev/blog' },
 			{
 				label: 'Sanity.io Articles',
-				url: 'https://www.sanity.io/exchange/community/nuotsu',
+				url: 'https://www.sanity.io/exchange/community/vishnupress',
 			},
 		],
 	},
@@ -134,11 +134,11 @@ const linkGroups: Array<{
 		links: [
 			{
 				label: 'Changelog',
-				url: 'https://github.com/nuotsu/sanitypress/releases',
+				url: 'https://github.com/vishnupprajapat/Vishnu_blog/releases',
 			},
 			{
 				label: 'Discussions',
-				url: 'https://github.com/nuotsu/sanitypress/discussions',
+				url: 'https://github.com/vishnupprajapat/Vishnu_blog/discussions',
 			},
 		],
 	},
