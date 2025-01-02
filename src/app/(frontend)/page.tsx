@@ -5,7 +5,6 @@ import processMetadata from '@/lib/processMetadata'
 
 export default async function Page() {
 	const page = await getPage()
-	console.log(page)
 	return <Modules modules={page?.modules} />
 }
 
